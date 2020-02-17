@@ -1,0 +1,16 @@
+Lvl		        type    address                                         remark
+
+lvl1            url     https://hb.sheey.moe/                           decryption
+lvl2            url     https://hb.sheey.moe/GgjXu2eKpqKCV3i2.html      location
+lvl2-qr-data    json    https://hb.sheey.moe/WHtPJRko294ndUvh.json      qrcode data
+lvl3-clue       url 	https://hb.sheey.moe/df6511d788004e4b.html      手机键盘 TqPU.html
+lvl4            file    https://hb.sheey.moe/TqPU.html                  telnet.txt
+lvl4-clue       telnet  hb.sheey.moe                                    port 2020
+clue            url     https://hb.sheey.moe/clue.html                  No Clue
+
+
+
+red packets
+
+736810974 5个/5块
+313493594 3个/10块
