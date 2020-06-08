@@ -4,7 +4,7 @@
 这里是这个谜题的服务器端和一些数据。
 
 # 解析
-见 [2020 红包解析](sheey.moe/article/red-packet-2020)。
+见 [2020 红包解析](https://sheey.moe/article/red-packet-2020)。
 
 # 使用方法
 ## 服务端
